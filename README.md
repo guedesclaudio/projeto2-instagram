@@ -9,7 +9,7 @@
 # Tópicos explorados
 
 - Flex-box
-- Media Query
+- Media Queries
 - Responsividade
 - Positions
 - Ion-icons
