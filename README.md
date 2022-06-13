@@ -23,6 +23,9 @@
 
 # Preview
 <div align="center">
-  <a href="https://www.google.com"><img src="img/" width="250"></a>
+  <a href="https://guedesclaudio.github.io/projeto2-instagram/"><img src="img/layout.png" width="600"></a>
+  <br>
+  <br>
+  <p>Clique na imagem para acessar a página</p>
 </div>
 <br>
